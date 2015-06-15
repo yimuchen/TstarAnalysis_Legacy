@@ -1,0 +1,51 @@
+
+# DO NOT DELETE
+
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TFile.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TDirectoryFile.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TDirectory.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TNamed.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TObject.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/Rtypes.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/RConfig.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/RVersion.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/DllImport.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/Rtypeinfo.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/snprintf.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/strlcpy.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TGenericClassInfo.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TSchemaHelper.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TStorage.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TVersionCheck.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/Riosfwd.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TBuffer.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TString.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TMathBase.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TList.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TSeqCollection.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TCollection.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TIterator.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TDatime.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TUUID.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TUrl.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TMap.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/THashTable.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TH1D.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TH1.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TAxis.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TAttAxis.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TArrayD.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TArray.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TAttLine.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TAttFill.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TAttMarker.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TArrayC.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TArrayS.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TArrayI.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TArrayF.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/Foption.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TVectorFfwd.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TVectorDfwd.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/TFitResultPtr.h
+./testpu_C.so: /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/cintdictversion.h /afs/cern.ch/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms18/include/RVersion.h
+testpu_C__ROOTBUILDVERSION= 5.32/00
