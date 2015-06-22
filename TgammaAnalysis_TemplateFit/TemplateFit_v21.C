@@ -34,8 +34,8 @@
 //#include "interface/CMSStyle2015/CMS_lumi.h"
 
 int RunStatus_ = Normal;
-/*
-   enum RunStatus{
+  /* 
+enum RunStatus{
     Normal,
     UncXsecPlus,
     UncXsecMinus,
@@ -61,9 +61,8 @@ int RunStatus_ = Normal;
     UncMatchingMinus,
     RunStatusSize
    };
-
-   string RunStatusNames[RunStatusSize] = {
-   */
+*/
+//   string RunStatusNames[RunStatusSize] = {
 string RunStatusNamesOnlyForTheta[RunStatusSize] = { 
     "", 
     "Xsec__plus",
